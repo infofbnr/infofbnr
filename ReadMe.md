@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Discord Bot Developer <br>🐍 Python Enthusiast<br>🚶‍♂️ Walking and Jogging 💯<br>🌐 Years of Experience in Coding
+🌐 Website Developer<br>🐍 Python Enthusiast<br>🤖 Discord/WhatsApp Bot Developer<br>🚶‍♂️ Walking and Jogging 💯<br>🌐 Years of Experience in Coding
 
 
 # 💻 Tech Stack:
